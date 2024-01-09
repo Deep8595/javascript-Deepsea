@@ -19,6 +19,21 @@ let booleanisLoggedIn = Boolean(isLoggedIn)
 
 let someNumber = " 33 " 
 let Stringnumber = String(someNumber )
-console.log( Stringnumber )
-console.log(typeof  Stringnumber )
-                 
+//console.log( Stringnumber )
+//console.log(typeof  Stringnumber )
+//********************operation*******************//
+let value = 100
+let negvalue = -value
+//console.log(negvalue)
+//console.log( 2 + 2 ); 
+// similary + , - , * , % , ** , / 
+let str1 = "Hello"  
+let str2 = "deepanshu "
+let str3 = str1 + str2 
+// console.log( str3 );
+//console.log( 1 + str2); output is 1deepanshu
+//console.log( "1" + 2 ); 
+//console.log( "1" + "1");    
+//console.log(2 +1 +" 3"); 
+console.log(  2 + 3  * 5 % 10 );
+        
