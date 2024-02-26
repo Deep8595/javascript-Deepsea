@@ -21,24 +21,12 @@ let tempOutSide = null
 
 let isLoggedIn
 // console.log( isLoggedIn) 
-// console.log(typeof isLoggedIn) // type of isloggedIn -> undefined
-
+// console.log(typeof isLoggedIn) // type of isloggedIn ->undefined
 const id = Symbol('deep123')
 // console.log(id);
 const AnotherId = Symbol('deep123')
-// console.log(AnotherId);
-
-
-
+ console.log(AnotherId);
 // compare both symbol ------ output is (false)
 // console.log( id === AnotherId)
-
-
-
-
-
-
 // Reference Type( Non-primitive datatype )
 // 3 -- type datatype : array, functions, Objects    
-
-
